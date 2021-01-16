@@ -1,1 +1,2 @@
 # simpleSpringCloudSecurity
+一个简单的springcloud集成springsecurity案例
